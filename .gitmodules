@@ -1,0 +1,3 @@
+[submodule "tests/SubmoduleRepo"]
+	path = tests/SubmoduleRepo
+	url = https://github.com/navyasruti/SubmoduleRepo

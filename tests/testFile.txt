@@ -1,1 +1,3 @@
+Adding change to mainrepo test file along with submodule test file changes
+
 test file

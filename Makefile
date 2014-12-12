@@ -1,3 +1,3 @@
 all: 
-		rm -rf jj | echo "failed"
-    mv jj gg
+	rm -rf jj | echo "failed"
+	mv jj gg

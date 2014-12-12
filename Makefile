@@ -1,1 +1,3 @@
-all: tests
+all: 
+		rm -rf jj | echo "failed"
+    mv jj gg

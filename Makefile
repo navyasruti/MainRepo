@@ -1,2 +1,1 @@
 all:
-	mv jj gg

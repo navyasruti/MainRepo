@@ -1,2 +1,2 @@
 all:
-	mv jj gg || echo "failed"
+	mv jj gg

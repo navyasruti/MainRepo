@@ -1,4 +1,4 @@
 all:
-	mv gg rr 
+	echo "Ran echo" 
 
 parts:

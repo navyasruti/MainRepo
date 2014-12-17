@@ -1,4 +1,4 @@
 all:
-	echo "Ran echo" 
+	echo "Ran echo changed" 
 
 parts:

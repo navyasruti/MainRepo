@@ -1,4 +1,4 @@
 all:
 
 parts:
-	mv jj gg
+	mv jj ghh
